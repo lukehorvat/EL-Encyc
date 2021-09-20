@@ -21,7 +21,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 </text><link ref="Sulphur" title="Sulphur"/><text>, 1 </text><link ref="Red_Rose" title="Red Rose"/><text>, 1 </text><link ref="Red_Snapdragons" title="Red Snapdragon"/><text>.</text>
+   <text> - 1 </text><link ref="Sulphur" title="Sulphur"/>
+   <nl/>
+   <text> - 1 </text><link ref="Red_Rose" title="Red Rose"/>
+   <nl/>
+   <text> - 1 </text><link ref="Red_Snapdragons" title="Red Snapdragon"/>
    <nl/>
    <text> Recommended Alchemy Level: 1</text>
    <nl/>
@@ -56,9 +60,13 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 </text><link ref="Sapphires" title="Sapphire"/><text>, 1 </text><link ref="Blue_Quartz" title="Blue Quartz"/><text>, 1 </text><link ref="Blue_Lupine" title="Blue Lupine"/><text>,</text>
+   <text> - 1 </text><link ref="Sapphires" title="Sapphire"/>
    <nl/>
-   <text> 1 </text><link ref="Blue_Star_Flower" title="Blue Star Flower"/><text>.</text>
+   <text> - 1 </text><link ref="Blue_Quartz" title="Blue Quartz"/>
+   <nl/>
+   <text> - 1 </text><link ref="Blue_Lupine" title="Blue Lupine"/>
+   <nl/>
+   <text> - 1 </text><link ref="Blue_Star_Flower" title="Blue Star Flower"/>
    <nl/>
    <text> Recommended Alchemy Level: 2</text>
    <nl/>
@@ -93,7 +101,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 </text><link ref="Sulphur" title="Sulphur"/><text>, 2 </text><link ref="Coal" title="Coals"/><text>, 1 </text><link ref="Swamp_Candles" title="Swamp Candle"/><text>.</text>
+   <text> - 1 </text><link ref="Sulphur" title="Sulphur"/>
+   <nl/>
+   <text> - 2 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text> - 1 </text><link ref="Swamp_Candles" title="Swamp Candle"/>
    <nl/>
    <text> Recommended Alchemy Level: 4</text>
    <nl/>
@@ -128,7 +140,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 </text><link ref="Silver_Ore" title="Silver Ore"/><text>, 1 </text><link ref="Diamonds" title="Unpolished Diamond"/><text>, 1 </text><link ref="White_Asiatic_Lilly" title="White Asiatic Lilly"/><text>.</text>
+   <text> - 1 </text><link ref="Silver_Ore" title="Silver Ore"/>
+   <nl/>
+   <text> - 1 </text><link ref="Diamonds" title="Unpolished Diamond"/>
+   <nl/>
+   <text> - 1 </text><link ref="White_Asiatic_Lilly" title="White Asiatic Lilly"/>
    <nl/>
    <text> Recommended Alchemy Level: 6</text>
    <nl/>
@@ -165,7 +181,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 </text><link ref="Mercury" title="Mercury"/><text>, 1 </text><link ref="Gold_Ore" title="Gold Ore"/><text>, 1 </text><link ref="Silver_Ore" title="Silver Ore"/><text>.</text>
+   <text> - 1 </text><link ref="Mercury" title="Mercury"/>
+   <nl/>
+   <text> - 1 </text><link ref="Gold_Ore" title="Gold Ore"/>
+   <nl/>
+   <text> - 1 </text><link ref="Silver_Ore" title="Silver Ore"/>
    <nl/>
    <text> Recommended Alchemy Level: 8</text>
    <nl/>
@@ -200,7 +220,13 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 </text><link ref="Iron_Ore" title="Iron Ore"/><text>, 1 </text><link ref="Quartz" title="Quartz"/><text>, 1 </text><link ref="Rose_Quartz" title="Rose Quartz"/><text>, 1 </text><link ref="Blue_Quartz" title="Blue Quartz"/><text>.</text>
+   <text> - 1 </text><link ref="Iron_Ore" title="Iron Ore"/>
+   <nl/>
+   <text> - 1 </text><link ref="Quartz" title="Quartz"/>
+   <nl/>
+   <text> - 1 </text><link ref="Rose_Quartz" title="Rose Quartz"/>
+   <nl/>
+   <text> - 1 </text><link ref="Blue_Quartz" title="Blue Quartz"/>
    <nl/>
    <text> Recommended Alchemy Level: 10</text>
    <nl/>
@@ -235,7 +261,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 </text><link ref="Iron_Ore" title="Iron Ore"/><text>, 1 </text><link ref="Silver_Ore" title="Silver Ore"/><text>, 1 </text><link ref="Tiger_Lilly" title="Tiger Lilly"/><text>.</text>
+   <text> - 1 </text><link ref="Iron_Ore" title="Iron Ore"/>
+   <nl/>
+   <text> - 1 </text><link ref="Silver_Ore" title="Silver Ore"/>
+   <nl/>
+   <text> - 1 </text><link ref="Tiger_Lilly" title="Tiger Lilly"/>
    <nl/>
    <text> Recommended Alchemy Level: 12</text>
    <nl/>
@@ -270,7 +300,9 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 </text><link ref="Silver_Ore" title="Silver Ore"/><text>, 2 </text><link ref="Sunflowers" title="Sunflowers"/><text>.</text>
+   <text> - 1 </text><link ref="Silver_Ore" title="Silver Ore"/>
+   <nl/>
+   <text> - 2 </text><link ref="Sunflowers" title="Sunflowers"/>
    <nl/>
    <text> Knowledge Needed: Life Essence</text>
    <nl/>
@@ -307,7 +339,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 </text><link ref="Mercury" title="Mercury"/><text>, 1 </text><link ref="Quartz" title="Quartz"/><text>, 1 </text><link ref="Cactus" title="Cactus"/><text>.</text>
+   <text> - 1 </text><link ref="Mercury" title="Mercury"/>
+   <nl/>
+   <text> - 1 </text><link ref="Quartz" title="Quartz"/>
+   <nl/>
+   <text> - 1 </text><link ref="Cactus" title="Cactus"/>
    <nl/>
    <text> Knowledge Needed: Death Essence</text>
    <nl/>
@@ -346,7 +382,9 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 2 </text><link ref="Silver_Ore" title="Silver Ores"/><text>, 1 </text><link ref="Chrysanthemum" title="Chrysanthemum"/><text>.</text>
+   <text> - 2 </text><link ref="Silver_Ore" title="Silver Ores"/>
+   <nl/>
+   <text> - 1 </text><link ref="Chrysanthemum" title="Chrysanthemum"/>
    <nl/>
    <text> Knowledge Needed: Health Essence</text>
    <nl/>
@@ -387,7 +425,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 </text><link ref="Emeralds" title="Emerald"/><text>, 1 </text><link ref="Impatiens" title="Impatiens"/><text>, 1 </text><link ref="Lilacs" title="Lilac"/><text>.</text>
+   <text> - 1 </text><link ref="Emeralds" title="Emerald"/>
+   <nl/>
+   <text> - 1 </text><link ref="Impatiens" title="Impatiens"/>
+   <nl/>
+   <text> - 1 </text><link ref="Lilacs" title="Lilac"/>
    <nl/>
    <text> Knowledge Needed: Magic Essence</text>
    <nl/>
@@ -424,7 +466,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 7 </text><link ref="Iron_Ore" title="Iron Ores"/><text>, 3 </text><link ref="Coal" title="Coals"/><text>, 2 </text><link ref="Fire Essence" title="Fire Essences"/><text>.</text>
+   <text> - 7 </text><link ref="Iron_Ore" title="Iron Ores"/>
+   <nl/>
+   <text> - 3 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text> - 2 </text><link ref="Fire Essence" title="Fire Essences"/>
    <nl/>
    <text> Knowledge Needed: Iron Smelting</text>
    <nl/>
@@ -461,7 +507,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 8 </text><link ref="Iron_Ore" title="Iron Ores"/><text>, 5 </text><link ref="Coal" title="Coals"/><text>, 3 </text><link ref="Fire Essence" title="Fire Essences"/><text>.</text>
+   <text> - 8 </text><link ref="Iron_Ore" title="Iron Ores"/>
+   <nl/>
+   <text> - 5 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text> - 3 </text><link ref="Fire Essence" title="Fire Essences"/>
    <nl/>
    <text> Knowledge Needed: Steel Smelting</text>
    <nl/>
@@ -498,7 +548,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 8 </text><link ref="Silver_Ore" title="Silver Ores"/><text>, 3 </text><link ref="Coal" title="Coals"/><text>, 4 </text><link ref="Fire Essence" title="Fire Essences"/><text>.</text>
+   <text> - 8 </text><link ref="Silver_Ore" title="Silver Ores"/>
+   <nl/>
+   <text> - 3 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text> - 4 </text><link ref="Fire Essence" title="Fire Essences"/>
    <nl/>
    <text> Knowledge Needed: Silver Smelting</text>
    <nl/>
@@ -535,7 +589,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 8 </text><link ref="Gold_Ore" title="Gold Ores"/><text>, 3 </text><link ref="Coal" title="Coals"/><text>, 5 </text><link ref="Fire Essence" title="Fire Essences"/><text>.</text>
+   <text> - 8 </text><link ref="Gold_Ore" title="Gold Ores"/>
+   <nl/>
+   <text> - 3 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text> - 5 </text><link ref="Fire Essence" title="Fire Essences"/>
    <nl/>
    <text> Knowledge Needed: Gold Smelting</text>
    <nl/>
@@ -572,7 +630,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 8 </text><link ref="Titanium_Ore" title="Titanium Ores"/><text>, 3 </text><link ref="Coal" title="Coals"/><text>, 7 </text><link ref="Fire Essence" title="Fire Essences"/><text>.</text>
+   <text> - 8 </text><link ref="Titanium_Ore" title="Titanium Ores"/>
+   <nl/>
+   <text> - 3 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text> - 7 </text><link ref="Fire Essence" title="Fire Essences"/>
    <nl/>
    <text> Knowledge Needed: Titanium Smelting</text>
    <nl/>
@@ -609,7 +671,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 10 </text><link ref="Copper" title="Copper Ores"/><text>, 10 </text><link ref="Coal" title="Coals"/><text>, 20 </text><link ref="Fire Essence" title="Fire Essences"/><text>.</text>
+   <text> - 10 </text><link ref="Copper" title="Copper Ores"/>
+   <nl/>
+   <text> - 10 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text> - 20 </text><link ref="Fire Essence" title="Fire Essences"/>
    <nl/>
    <text> Knowledge Needed: Copper Smelting</text>
    <nl/>
@@ -646,8 +712,13 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 15 </text><link ref="Dvarium" title="Dvarium Ores"/><text>, 1 </text><link ref="Serpent_Stone" title="Serpent Stone"/><text>, 8 </text><link ref="Coal" title="Coals"/><text>,</text><nl/>
-   <text> 30 </text><link ref="Fire Essence" title="Fire Essences"/><text>.</text>
+   <text> - 15 </text><link ref="Dvarium" title="Dvarium Ores"/>
+   <nl/>
+   <text> - 1 </text><link ref="Serpent_Stone" title="Serpent Stone"/>
+   <nl/>
+   <text> - 8 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text> - 30 </text><link ref="Fire Essence" title="Fire Essences"/>
    <nl/>
    <text> Knowledge Needed: Dvarium Smelting</text>
    <nl/>
@@ -684,7 +755,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 10 </text><link ref="Hydrogenium" title="Hydrogenium Ores"/><text>, 4 </text><link ref="Coal" title="Coals"/><text>, 10 </text><link ref="Fire Essence" title="Fire Essences"/><text>.</text>
+   <text> - 10 </text><link ref="Hydrogenium" title="Hydrogenium Ores"/>
+   <nl/>
+   <text> - 4 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text> - 10 </text><link ref="Fire Essence" title="Fire Essences"/>
    <nl/>
    <text> Knowledge Needed: Hydrogenium Smelting</text>
    <nl/>
@@ -721,7 +796,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 6 </text><link ref="Seridium" title="Seridium Ores"/><text>, 10 </text><link ref="Coal" title="Coals"/><text>, 20 </text><link ref="Fire Essence" title="Fire Essences"/><text>.</text>
+   <text> - 6 </text><link ref="Seridium" title="Seridium Ores"/>
+   <nl/>
+   <text> - 10 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text> - 20 </text><link ref="Fire Essence" title="Fire Essences"/>
    <nl/>
    <text> Knowledge Needed: Seridium Smelting</text>
    <nl/>
@@ -797,7 +876,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 6 </text><link ref="Tin" title="Tin Ores"/><text>, 10 </text><link ref="Coal" title="Coals"/><text>, 20 </text><link ref="Fire Essence" title="Fire Essences"/><text>.</text>
+   <text> - 6 </text><link ref="Tin" title="Tin Ores"/>
+   <nl/>
+   <text> - 10 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text> - 20 </text><link ref="Fire Essence" title="Fire Essences"/>
    <nl/>
    <text> Knowledge Needed: Tin Smelting</text>
    <nl/>
@@ -834,7 +917,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 10 </text><link ref="Wolfram" title="Wolframite Ores"/><text>, 1 </text><link ref="Serpent_Stone" title="Serpent Stone"/><text>, 30 </text><link ref="Fire Essence" title="Fire Essences"/><text>.</text>
+   <text> - 10 </text><link ref="Wolfram" title="Wolframite Ores"/>
+   <nl/>
+   <text> - 1 </text><link ref="Serpent_Stone" title="Serpent Stone"/>
+   <nl/>
+   <text> - 30 </text><link ref="Fire Essence" title="Fire Essences"/>
    <nl/>
    <text> Knowledge Needed: Wolframite Smelting</text>
    <nl/>
@@ -871,7 +958,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 </text><link ref="Copper Bar" title="Copper Bar"/><text>, 1 </text><link ref="Tin Bar" title="Tin Bar"/><text>, 30 </text><link ref="Fire Essence" title="Fire Essences"/><text>.</text>
+   <text> - 1 </text><link ref="Copper Bar" title="Copper Bar"/>
+   <nl/>
+   <text> - 1 </text><link ref="Tin Bar" title="Tin Bar"/>
+   <nl/>
+   <text> - 30 </text><link ref="Fire Essence" title="Fire Essences"/>
    <nl/>
    <text> Recommended Alchemy Level: 36</text>
    <nl/>
@@ -908,7 +999,9 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 </text><link ref="Enrich_Stone" title="Enrichment Stone"/><text>, 100 </text><link ref="Fire Essence" title="Fire Essences"/><text>.</text>
+   <text> - 1 </text><link ref="Enrich_Stone" title="Enrichment Stone"/>
+   <nl/>
+   <text> - 100 </text><link ref="Fire Essence" title="Fire Essences"/>
    <nl/>
    <text> Recommended Alchemy Level: 56</text>
    <nl/>
@@ -945,7 +1038,9 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 </text><link ref="Enrich_Stone" title="Enrichment Stone"/><text>, 100 </text><link ref="Life Essence" title="Life Essences"/><text>.</text>
+   <text> - 1 </text><link ref="Enrich_Stone" title="Enrichment Stone"/>
+   <nl/>
+   <text> - 100 </text><link ref="Life Essence" title="Life Essences"/>
    <nl/>
    <text> Recommended Alchemy Level: 48</text>
    <nl/>
@@ -982,7 +1077,9 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 </text><link ref="Enrich_Stone" title="Enrichment Stone"/><text>, 100 </text><link ref="Magic Essence" title="Magic Essences"/><text>.</text>
+   <text> - 1 </text><link ref="Enrich_Stone" title="Enrichment Stone"/>
+   <nl/>
+   <text> - 100 </text><link ref="Magic Essence" title="Magic Essences"/>
    <nl/>
    <text> Recommended Alchemy Level: 54</text>
    <nl/>

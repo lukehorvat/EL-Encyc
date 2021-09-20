@@ -276,7 +276,13 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 Arrow/Bolt Head, 1 Yew, 1 Air Essence, 1 Hawk Feather.</text>
+   <text> - 1 </text><link ref="ArrowBolt_Head" title="Arrow/Bolt Head"/>
+   <nl/>
+   <text> - 1 </text><link ref="Yew" title="Yew"/>
+   <nl/>
+   <text> - 1 </text><link ref="Air Essence" title="Air Essence"/>
+   <nl/>
+   <text> - 1 Hawk Feather</text>
    <nl/>
    <text> Tools required to have: Carving Knife</text>
    <nl/>
@@ -323,8 +329,13 @@
    <nl/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 Enriched Magic Essence, 50 Arrow/Bolt Heads, 50 Yews,</text><nl/>
-   <text> 50 Hawk Feathers.</text>
+   <text> - 1 </text><link ref="Enriched Magic Essence" title="Enriched Magic Essence"/>
+   <nl/>
+   <text> - 50 </text><link ref="ArrowBolt_Head" title="Arrow/Bolt Heads"/>
+   <nl/>
+   <text> - 50 </text><link ref="Yew" title="Yews"/>
+   <nl/>
+   <text> - 50 Hawk Feathers</text>
    <nl/>
    <text> Tools required to have: Carving Knife</text>
    <nl/>
@@ -371,8 +382,13 @@
    <nl/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 Enriched Fire Essence, 50 Arrow/Bolt Heads, 50 Yews,</text><nl/>
-   <text> 50 Hawk Feathers.</text>
+   <text> - 1 </text><link ref="Enriched Fire Essence" title="Enriched Fire Essence"/>
+   <nl/>
+   <text> - 50 </text><link ref="ArrowBolt_Head" title="Arrow/Bolt Heads"/>
+   <nl/>
+   <text> - 50 </text><link ref="Yew" title="Yews"/>
+   <nl/>
+   <text> - 50 Hawk Feathers</text>
    <nl/>
    <text> Tools required to have: Carving Knife</text>
    <nl/>
@@ -419,8 +435,13 @@
    <nl/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 Enriched Water Essence, 50 Arrow/Bolt Heads, 50 Yews,</text><nl/>
-   <text> 50 Hawk Feathers.</text>
+   <text> - 1 </text><link ref="Enriched Water Essence" title="Enriched Water Essence"/>
+   <nl/>
+   <text> - 50 </text><link ref="ArrowBolt_Head" title="Arrow/Bolt Heads"/>
+   <nl/>
+   <text> - 50 </text><link ref="Yew" title="Yews"/>
+   <nl/>
+   <text> - 50 Hawk Feathers</text>
    <nl/>
    <text> Tools required to have: Carving Knife</text>
    <nl/>
@@ -536,7 +557,13 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 Arrow/Bolt Head, 1 Yew, 1 Air Essence, 1 Falcon Feather.</text>
+   <text> - 1 </text><link ref="ArrowBolt_Head" title="Arrow/Bolt Head"/>
+   <nl/>
+   <text> - 1 </text><link ref="Yew" title="Yew"/>
+   <nl/>
+   <text> - 1 </text><link ref="Air Essence" title="Air Essence"/>
+   <nl/>
+   <text> - 1 Falcon Feather</text>
    <nl/>
    <text> Tools required to have: Carving Knife</text>
    <nl/>
@@ -585,8 +612,13 @@
    <nl/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 Enriched Magic Essence, 60 Arrow/Bolt Heads, 60 Yews,</text><nl/>
-   <text> 60 Falcon Feathers.</text>
+   <text> - 1 </text><link ref="Enriched Magic Essence" title="Enriched Magic Essence"/>
+   <nl/>
+   <text> - 60 </text><link ref="ArrowBolt_Head" title="Arrow/Bolt Heads"/>
+   <nl/>
+   <text> - 60 </text><link ref="Yew" title="Yews"/>
+   <nl/>
+   <text> - 60 Falcon Feathers</text>
    <nl/>
    <text> Tools required to have: Carving Knife</text>
    <nl/>
@@ -635,8 +667,13 @@
    <nl/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 Enriched Fire Essence, 65 Arrow/Bolt Heads, 65 Yews,</text><nl/>
-   <text> 65 Falcon Feathers.</text>
+   <text> - 1 </text><link ref="Enriched Fire Essence" title="Enriched Fire Essence"/>
+   <nl/>
+   <text> - 65 </text><link ref="ArrowBolt_Head" title="Arrow/Bolt Heads"/>
+   <nl/>
+   <text> - 65 </text><link ref="Yew" title="Yews"/>
+   <nl/>
+   <text> - 65 Falcon Feathers</text>
    <nl/>
    <text> Tools required to have: Carving Knife</text>
    <nl/>
@@ -685,8 +722,13 @@
    <nl/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 Enriched Water Essence, 30 Arrow/Bolt Heads, 30 Yews,</text><nl/>
-   <text> 30 Falcon Feathers.</text>
+   <text> - 1 </text><link ref="Enriched Water Essence" title="Enriched Water Essence"/>
+   <nl/>
+   <text> - 30 </text><link ref="ArrowBolt_Head" title="Arrow/Bolt Heads"/>
+   <nl/>
+   <text> - 30 </text><link ref="Yew" title="Yews"/>
+   <nl/>
+   <text> - 30 Falcon Feathers</text>
    <nl/>
    <text> Tools required to have: Carving Knife</text>
    <nl/>

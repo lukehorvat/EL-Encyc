@@ -20,7 +20,9 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 3 Brown Rabbit Furs, 2 Threads.</text>
+   <text> - 3 Brown Rabbit Furs</text>
+   <nl/>
+   <text> - 2 </text><link ref="Thread" title="Threads"/>
    <nl/>
    <text> Tools required to have: Needle</text>
    <nl/>
@@ -58,7 +60,9 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 Fox Fur, 1 Thread.</text>
+   <text> - 1 Fox Fur</text>
+   <nl/>
+   <text> - 1 </text><link ref="Thread" title="Thread"/>
    <nl/>
    <text> Tools required to have: Needle</text>
    <nl/>
@@ -96,7 +100,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 White Rabbit Furs, 3 Beaver Furs, 3 Threads.</text>
+   <text> - 1 White Rabbit Furs</text>
+   <nl/>
+   <text> - 3 Beaver Furs</text>
+   <nl/>
+   <text> - 3 </text><link ref="Thread" title="Threads"/>
    <nl/>
    <text> Tools required to have: Needle</text>
    <nl/>
@@ -134,7 +142,9 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 2 Skunk Furs, 4 Threads.</text>
+   <text> - 2 Skunk Furs</text>
+   <nl/>
+   <text> - 4 </text><link ref="Thread" title="Threads"/>
    <nl/>
    <text> Tools required to have: Needle</text>
    <nl/>
@@ -172,7 +182,9 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 2 Raccoon Furs, 5 Threads.</text>
+   <text> - 2 Raccoon Furs</text>
+   <nl/>
+   <text> - 5 </text><link ref="Thread" title="Threads"/>
    <nl/>
    <text> Tools required to have: Needle</text>
    <nl/>
@@ -210,9 +222,17 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 Iron Bar, 1 Wolf Fur, 4 Rat Tails, 2 Brown Rabbit Fur,</text>
+   <text> - 1 </text><link ref="Iron Bar" title="Iron Bar"/>
    <nl/>
-   <text> 2 Leather, 5 Threads.</text>
+   <text> - 1 Wolf Fur</text>
+   <nl/>
+   <text> - 4 Rat Tails</text>
+   <nl/>
+   <text> - 2 Brown Rabbit Fur</text>
+   <nl/>
+   <text> - 2 </text><link ref="Leather" title="Leather"/>
+   <nl/>
+   <text> - 5 </text><link ref="Thread" title="Threads"/>
    <nl/>
    <text> Tools required to have: Hammer, Needle</text>
    <nl/>
@@ -252,9 +272,17 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 1 Iron Bar, 2 Wolf Furs, 3 Deer Furs, 4 Rat Tails,</text>
+   <text> - 1 </text><link ref="Iron Bar" title="Iron Bar"/>
    <nl/>
-   <text> 7 Leather, 10 Threads.</text>
+   <text> - 2 Wolf Furs</text>
+   <nl/>
+   <text> - 3 Deer Furs</text>
+   <nl/>
+   <text> - 4 Rat Tails</text>
+   <nl/>
+   <text> - 7 </text><link ref="Leather" title="Leather"/>
+   <nl/>
+   <text> - 10 </text><link ref="Thread" title="Threads"/>
    <nl/>
    <text> Tools required to have: Hammer, Needle</text>
    <nl/>
@@ -294,8 +322,15 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 2 Wolf Furs, 2 Deer Furs, 1 Beaver Fur, 6 Leather,</text><nl/>
-   <text> 7 Threads.</text>
+   <text> - 2 Wolf Furs</text>
+   <nl/>
+   <text> - 2 Deer Furs</text>
+   <nl/>
+   <text> - 1 Beaver Fur</text>
+   <nl/>
+   <text> - 6 </text><link ref="Leather" title="Leather"/>
+   <nl/>
+   <text> - 7 </text><link ref="Thread" title="Threads"/>
    <nl/>
    <text> Tools required to have: Needle</text>
    <nl/>
@@ -335,7 +370,11 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 3 Wolf Furs, 2 Fox Furs, 5 Threads.</text>
+   <text> - 3 Wolf Furs</text>
+   <nl/>
+   <text> - 2 Fox Furs</text>
+   <nl/>
+   <text> - 5 </text><link ref="Thread" title="Threads"/>
    <nl/>
    <text> Tools required to have: Needle</text>
    <nl/>
